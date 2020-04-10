@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
+  "name": "angularjs-official-phonecap-zzp",
   "private": true,
   "version": "0.0.0",
-  "description": "A tutorial application for AngularJS",
+  "description": "",
   "repository": "https://github.com/angular/angular-phonecat",
   "license": "MIT",
   "dependencies": {
@@ -38,5 +38,6 @@
     "update-webdriver": "webdriver-manager update",
     "preprotractor": "npm run update-webdriver",
     "protractor": "protractor e2e-tests/protractor.conf.js"
-  }
+  },
+  "keywords": []
 }
